@@ -1,4 +1,3 @@
-I can draft a README grounded in the provided script. I’ll describe its purpose, controls, report workflow, supported activities, expected sheet structure, setup, and limitations.# CS Reports
 
 An Excel Script that generates crop schedule reports from all worksheets whose names start with `^`.
 
